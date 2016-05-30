@@ -25,6 +25,6 @@ nav ul li a:hover{
   background-color: red;
   color: yellow;
 }
-nav ul li a{
+a{
     list-style-type:none;
 }
