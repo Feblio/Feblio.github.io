@@ -1,4 +1,4 @@
-p {
+nav ul li p {
 	color: red;
 }
 body {
@@ -8,11 +8,23 @@ body {
 	margin-bottom:5%;
 	background-color:#3C0F56;
 }
-p {
+nav ul li p{
     font-family: "Times New Roman";
     font-size: 15px;
 }
 h1{
 	font-family: "Arial";
 	font-size:20px;
+}
+nav ul li a{
+  font-family:"Arial";
+  font-size: 15;
+  color: yellow;
+}
+nav ul li a:hover{
+  background-color: red;
+  color: yellow;
+}
+nav ul li a{
+    list-style-type:none;
 }
