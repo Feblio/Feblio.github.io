@@ -14,7 +14,12 @@ nav p{
 h1{
 	font-family: "Arial";
 	font-size:20px;
-	color:white
+	color:white                                                                               
+}
+body h1{
+  border:10px;
+  outline-style:double;
+  text-align:center;
 }
 nav ul li a{
   font-family:"Arial";
