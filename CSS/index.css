@@ -6,7 +6,7 @@ body {
 	background-color:#3C0F56;
 }
 
-nav p{
+p{
     font-family: "Times New Roman";
     font-size: 15px;
     color:red;
@@ -26,7 +26,7 @@ body h1{
 }
 
 nav ul{
-  margin-top:-185px;
+  margin-top:-150px;
   margin-left:-120px;
 }
 
